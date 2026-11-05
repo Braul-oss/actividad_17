@@ -163,7 +163,7 @@ ${sections.join('\n')}
     format: 'A4',
     printBackground: true,
     displayHeaderFooter: true,
-    headerTemplate: '<div style="font-size:7pt;color:#94a3b8;width:100%;text-align:right;padding-right:16mm">ClimaYa — Actividad 17</div>',
+    headerTemplate: '<div style="font-size:7pt;color:#94a3b8;width:100%;text-align:right;padding-right:16mm">ClimaYa — Actividad 18</div>',
     footerTemplate: '<div style="font-size:7pt;color:#94a3b8;width:100%;text-align:center">Página <span class="pageNumber"></span> de <span class="totalPages"></span></div>',
     margin: { top: '18mm', bottom: '20mm', left: '16mm', right: '16mm' },
   });

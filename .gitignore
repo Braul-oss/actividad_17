@@ -3,6 +3,13 @@
 # dependencies
 node_modules/
 
+# entregables y evidencias (pesados)
+evidencias/
+entrega/
+
+# reportes de pruebas
+coverage/
+
 # Expo
 .expo/
 dist/

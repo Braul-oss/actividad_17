@@ -6,7 +6,7 @@
 |-------|-------|
 | Institución | _[completar]_ |
 | Asignatura | _[completar]_ |
-| Actividad | Actividad 17 — Prototipo de aplicación móvil que consume una API pública |
+| Actividad | Actividad 18 — Prototipo de aplicación móvil que consume una API pública |
 | Alumno(a) | _[completar]_ |
 | Matrícula / Grupo | _[completar]_ |
 | Docente | _[completar]_ |
